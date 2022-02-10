@@ -87,6 +87,7 @@ export default Vue.extend({
 html {
   background: #01224d;
   color: #ffffff;
+  font-size: 1vw;
 }
 
 #app {
